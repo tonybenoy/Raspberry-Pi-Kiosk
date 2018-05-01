@@ -6,4 +6,8 @@ $ git clone https://github.com/tonybenoy/Raspberry-Pi-Kiosk.git
 
 $ cd Raspberry-Pi-Kiosk
 
+$ chmod 700 install.sh
+
 $ sudo ./install.sh
+
+
